@@ -3,7 +3,7 @@
 1. Installeer **Tucon Local Player** vanuit de Tucon App-repository.
 2. Start de app.
 3. Open **Web UI**. Home Assistant verzorgt de toegang via Ingress.
-4. Kies in Tucon het displayprofiel, de oriëntatie en de gewenste ruimtes en entiteiten.
+4. Doorloop de zes stappen: hub, project, display, apparaten, vormgeving en publiceren.
 5. Sla de configuratie op. Deze blijft lokaal bewaard in de persistente `/data`-map van de app.
 
 ## Een tablet koppelen
@@ -32,6 +32,12 @@ Pas de optie **Tablet-URL** aan als `homeassistant.local` op het netwerk niet we
 - Het automatisch verstrekte Supervisor-token wordt alleen in het procesgeheugen gebruikt en niet opgeslagen.
 - Dashboardconfiguratie, gehashte apparaattokens en de offline snapshot staan in `/data`.
 - Het oorspronkelijke apparaattoken staat alleen in een HttpOnly-cookie op de gekoppelde tablet.
+
+## Dashboard en vormgeving
+
+De onboarding laat de installateur een begroetingsnaam, projectnaam, displayformaat, oriëntatie, motionniveau, accentkleur en gewenste modules kiezen. Ook kunnen Tucon-branding en co-branding met de installatiepartner worden ingesteld. Een live voorvertoning toont vóór publicatie hoe de identiteit en belangrijkste keuzes op het display verschijnen.
+
+Het gepubliceerde dashboard maakt de navigatie en ruimtekaarten automatisch uit deze configuratie en de geselecteerde Home Assistant-entiteiten. De huidige versie vormt tevens de technische basis voor uitgebreidere white-labelthema's in een latere release.
 
 ## Ondersteunde platformen
 

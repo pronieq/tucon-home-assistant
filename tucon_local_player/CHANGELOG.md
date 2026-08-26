@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.4.0
+
+- Nieuw Tucon-productdashboard, gebaseerd op het aangeleverde ontwerp en geoptimaliseerd voor vaste tablets.
+- Zesdelige installateurs-onboarding voor hub, project, display, apparaten, vormgeving en publicatie.
+- Configureerbare begroetingsnaam, projectnaam, accentkleur en dashboardmodules.
+- Tucon-branding of co-branding met een installatiepartner; de basis voor volledige white-labeling is voorbereid.
+- Navigatie en dashboardsamenstelling worden gegenereerd vanuit de lokaal opgeslagen configuratie en Home Assistant-ruimtes.
+
 ## 0.3.1
 
 - Houdt het laatst bekende dashboard zichtbaar wanneer de lokale hub onbereikbaar is.
