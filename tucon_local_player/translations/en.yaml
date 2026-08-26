@@ -1,0 +1,7 @@
+configuration:
+  public_url:
+    name: Tablet URL
+    description: Local URL opened by the tablet when scanning the pairing QR code.
+network:
+  8787/tcp: Internal Ingress port (do not publish)
+  8788/tcp: Secure local access for paired tablets

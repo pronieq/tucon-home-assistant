@@ -1,0 +1,7 @@
+configuration:
+  public_url:
+    name: Tablet-URL
+    description: Lokaal adres dat de tablet opent bij het scannen van de koppel-QR-code.
+network:
+  8787/tcp: Interne Ingress-poort (niet publiceren)
+  8788/tcp: Beveiligde lokale toegang voor gekoppelde tablets

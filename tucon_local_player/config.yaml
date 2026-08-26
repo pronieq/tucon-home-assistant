@@ -1,0 +1,31 @@
+name: Tucon Local Player
+version: "0.2.0"
+slug: tucon_local_player
+description: Eén lokaal bedieningspaneel voor apparaten en sensoren in Home Assistant.
+url: https://github.com/pronieq/tucon-home-assistant
+arch:
+  - aarch64
+  - amd64
+startup: application
+boot: auto
+init: false
+ingress: true
+ingress_port: 8787
+panel_icon: mdi:view-dashboard-variant
+panel_title: Tucon
+panel_admin: true
+homeassistant_api: true
+apparmor: true
+ports:
+  8787/tcp: null
+  8788/tcp: 8788
+ports_description:
+  8787/tcp: Interne Ingress-poort (niet publiceren)
+  8788/tcp: Beveiligde lokale toegang voor gekoppelde tablets
+options:
+  public_url: http://homeassistant.local:8788
+schema:
+  public_url: url
+watchdog: http://[HOST]:[PORT:8787]/api/runtime
+stage: experimental
+image: ghcr.io/pronieq/tucon-local-player
