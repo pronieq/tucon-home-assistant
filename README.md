@@ -21,4 +21,4 @@ De applicatiebron en SaaS-diensten worden afzonderlijk beheerd. Deze repository 
 
 ## Ondersteuning
 
-Tucon Local Player 0.2.0 ondersteunt Home Assistant OS op `amd64` en `aarch64`.
+Tucon Local Player 0.2.1 ondersteunt Home Assistant OS op `amd64` en `aarch64`.

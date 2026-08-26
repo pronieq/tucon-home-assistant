@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.1
+
+- Herstelt schrijfrechten op het door Home Assistant gekoppelde `/data`-volume.
+- Tucon verlaagt na de beperkte eigenaarschapscontrole direct terug naar de niet-root `node`-gebruiker.
+
 ## 0.2.0
 
 - Veilige, eenmalige tablet-pairing met QR-code en zescijferige code.
