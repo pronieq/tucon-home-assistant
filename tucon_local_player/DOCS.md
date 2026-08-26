@@ -17,7 +17,7 @@
 
 De code verloopt na tien minuten en werkt één keer. De tablet ontvangt daarna een eigen HttpOnly-apparaatsessie. Via **Tablet koppelen** kan de installateur eerder gekoppelde displays bekijken en de toegang onmiddellijk intrekken.
 
-**Fully Kiosk Browser** is het aanbevolen profiel voor Android-tablets. Tucon blijft ook werken in andere browsers en kiosk-apps. Elk actief display meldt periodiek zijn bereikbaarheid, app, Tucon-versie, schermformaat en oriëntatie. Het beheerscherm toont deze gegevens en kan de actuele bereikbaarheid opnieuw controleren. Bij langdurig verlies van backendcontact herlaadt het dashboard zichzelf gecontroleerd; een cooldown voorkomt herlaadlussen.
+**Fully Kiosk Browser** is het aanbevolen profiel voor Android-tablets. Tucon blijft ook werken in andere browsers en kiosk-apps. Elk actief display meldt periodiek zijn bereikbaarheid, app, Tucon-versie, schermformaat en oriëntatie. Het beheerscherm toont deze gegevens en kan de actuele bereikbaarheid opnieuw controleren. Bij netwerkverlies blijft het laatst bekende dashboard zichtbaar. Tucon herlaadt pas wanneer de lokale backend aantoonbaar weer bereikbaar is; een cooldown voorkomt herlaadlussen.
 
 Tucon gebruikt twee gescheiden poorten:
 

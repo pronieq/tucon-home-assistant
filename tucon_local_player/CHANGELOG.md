@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.3.1
+
+- Houdt het laatst bekende dashboard zichtbaar wanneer de lokale hub onbereikbaar is.
+- Voorkomt dat een display tijdens netwerkuitval naar een browserfoutpagina herlaadt.
+- Controleert eerst of de Tucon-backend weer bereikbaar is voordat automatisch herstel plaatsvindt.
+- Toont een duidelijke herstelmelding tijdens de onderbreking.
+
 ## 0.3.0
 
 - Kiosk-onboarding met aanbevolen Fully Kiosk-profiel en exacte Start URL.
