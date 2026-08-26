@@ -11,9 +11,13 @@
 1. Open Tucon via **Web UI** in Home Assistant.
 2. Kies **Tablet koppelen** en maak een eenmalige koppelcode.
 3. Scan de QR-code met de tablet, of open de ingestelde Tablet-URL op de tablet en voer de zes cijfers in.
-4. Geef het display een herkenbare naam.
+4. Geef het display een herkenbare naam en kies de gebruikte kiosk-app.
+5. Neem na het koppelen de getoonde **Start URL** over in de kiosk-app.
+6. Schakel fullscreen, automatisch starten en scherm aanhouden in.
 
 De code verloopt na tien minuten en werkt één keer. De tablet ontvangt daarna een eigen HttpOnly-apparaatsessie. Via **Tablet koppelen** kan de installateur eerder gekoppelde displays bekijken en de toegang onmiddellijk intrekken.
+
+**Fully Kiosk Browser** is het aanbevolen profiel voor Android-tablets. Tucon blijft ook werken in andere browsers en kiosk-apps. Elk actief display meldt periodiek zijn bereikbaarheid, app, Tucon-versie, schermformaat en oriëntatie. Het beheerscherm toont deze gegevens en kan de actuele bereikbaarheid opnieuw controleren. Bij langdurig verlies van backendcontact herlaadt het dashboard zichzelf gecontroleerd; een cooldown voorkomt herlaadlussen.
 
 Tucon gebruikt twee gescheiden poorten:
 

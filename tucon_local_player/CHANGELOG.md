@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.3.0
+
+- Kiosk-onboarding met aanbevolen Fully Kiosk-profiel en exacte Start URL.
+- Heartbeat per display met online-status, clientversie, schermformaat en oriëntatie.
+- Periodieke verbindingscontrole en gecontroleerd automatisch herstel na een vastgelopen verbinding.
+- Realtime keepalive-events en bescherming tegen herlaadlussen.
+- Uitgebreid displaybeheer voor installateurs.
+
 ## 0.2.1
 
 - Herstelt schrijfrechten op het door Home Assistant gekoppelde `/data`-volume.
