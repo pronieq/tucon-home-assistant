@@ -26,6 +26,15 @@ Tucon gebruikt twee gescheiden poorten:
 
 Pas de optie **Tablet-URL** aan als `homeassistant.local` op het netwerk niet werkt, bijvoorbeeld naar het vaste lokale IP-adres van de Home Assistant-module.
 
+## TUCON SaaS koppelen
+
+1. Maak in TUCON SaaS een installatie en tijdelijke koppelcode.
+2. Open TUCON via **Web UI** in Home Assistant.
+3. Stuur als beheerder de code en SaaS-URL naar `POST /api/saas/pair`.
+4. Controleer de verbinding via `GET /api/saas/status`.
+
+De app opent zelf een uitgaande, versleutelde verbinding. Er hoeft geen poort in de router open en alle lokale bediening blijft zonder internet werken.
+
 ## Privacy en opslag
 
 - Tucon verwerkt Home Assistant-data lokaal.

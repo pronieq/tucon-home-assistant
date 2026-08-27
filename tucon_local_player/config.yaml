@@ -1,5 +1,5 @@
 name: Tucon Local Player
-version: "0.4.0"
+version: "0.5.0"
 slug: tucon_local_player
 description: Eén lokaal bedieningspaneel voor apparaten en sensoren in Home Assistant.
 url: https://github.com/pronieq/tucon-home-assistant
@@ -26,6 +26,7 @@ options:
   public_url: http://homeassistant.local:8788
 schema:
   public_url: url
+  saas_url: url?
 watchdog: http://[HOST]:[PORT:8787]/api/runtime
 stage: experimental
 image: ghcr.io/pronieq/tucon-local-player

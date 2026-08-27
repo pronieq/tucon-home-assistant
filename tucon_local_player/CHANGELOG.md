@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.5.0
+
+- Veilige uitgaande WSS-verbinding met TUCON SaaS, zonder open routerpoort.
+- Eenmalige SaaS-koppelcode en unieke Ed25519-identiteit per Home Assistant Green.
+- Heartbeat en online/offline-status voor centraal beheer.
+- Alleen expliciet toegestane, digitaal ondertekende SaaS-opdrachten.
+- Lokale bediening blijft beschikbaar zonder internet of SaaS.
+
+
 ## 0.4.0
 
 - Nieuw Tucon-productdashboard, gebaseerd op het aangeleverde ontwerp en geoptimaliseerd voor vaste tablets.
