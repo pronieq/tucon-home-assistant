@@ -1,3 +1,10 @@
+# 0.9.0
+
+- Hybride HTTP/JSON-integraties met uitvoering via TUCON Cloud of lokaal via de Green.
+- Veilige API-headers, visuele JSON-mapping en periodieke waardeverversing.
+- API-informatietegels op het tablet met laatst bekende waarden bij storingen.
+- Integratiestatus en fouten worden centraal zichtbaar in TUCON Cloud.
+
 # 0.8.4
 
 - Behoudt aangepaste dashboardtitels voor ruimtes bij publicatie vanuit TUCON Cloud.
