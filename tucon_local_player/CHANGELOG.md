@@ -1,3 +1,8 @@
+# 0.8.2
+
+- Herstelt een ongeldige escaped newline in het server-entrypoint.
+- De servercode wordt voortaan vóór iedere release syntactisch gecontroleerd.
+
 # 0.8.1
 
 - Gebruikt de actuele SaaS-URL uit de appconfiguratie boven een opgeslagen pilot-URL.
