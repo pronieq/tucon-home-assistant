@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.7.0
+
+- Dashboardconfiguraties ophalen, versioneren en publiceren vanuit TUCON Cloud.
+- Iedere cloudconfiguratie wordt lokaal opnieuw gecontroleerd tegen Home Assistant.
+- De vorige configuratie wordt automatisch bewaard en bij fouten teruggezet.
+- Publicatieresultaat en actieve cloudversie worden veilig aan TUCON Cloud teruggemeld.
+
 ## 0.6.0
 
 - SaaS-koppeling rechtstreeks vanuit TUCON beheer, zonder browserconsole.
