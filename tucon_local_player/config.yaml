@@ -24,7 +24,6 @@ ports_description:
   8788/tcp: Beveiligde lokale toegang voor gekoppelde tablets
 options:
   public_url: http://homeassistant.local:8788
-  saas_url: ""
 schema:
   public_url: url
   saas_url: url?
