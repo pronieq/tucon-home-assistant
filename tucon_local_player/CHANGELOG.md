@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.6.0
+
+- SaaS-koppeling rechtstreeks vanuit TUCON beheer, zonder browserconsole.
+- Live verbindingsstatus en opnieuw koppelen vanuit één scherm.
+
+
 ## 0.5.0
 
 - Veilige uitgaande WSS-verbinding met TUCON SaaS, zonder open routerpoort.
