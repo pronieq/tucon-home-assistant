@@ -30,8 +30,9 @@ Pas de optie **Tablet-URL** aan als `homeassistant.local` op het netwerk niet we
 
 1. Maak in TUCON SaaS een installatie en tijdelijke koppelcode.
 2. Open TUCON via **Web UI** in Home Assistant.
-3. Stuur als beheerder de code en SaaS-URL naar `POST /api/saas/pair`.
-4. Controleer de verbinding via `GET /api/saas/status`.
+3. Open in het TUCON-dashboard als beheerder **SaaS**.
+4. Vul de SaaS-URL, naam van de Green en zescijferige koppelcode in.
+5. Controleer in hetzelfde scherm of de status **Online verbonden** wordt.
 
 De app opent zelf een uitgaande, versleutelde verbinding. Er hoeft geen poort in de router open en alle lokale bediening blijft zonder internet werken.
 
