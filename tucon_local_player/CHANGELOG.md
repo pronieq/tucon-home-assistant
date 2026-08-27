@@ -1,3 +1,8 @@
+# 0.8.4
+
+- Behoudt aangepaste dashboardtitels voor ruimtes bij publicatie vanuit TUCON Cloud.
+- De Home Assistant-ruimtenaam wordt alleen gebruikt wanneer geen eigen dashboardtitel is ingevuld.
+
 # 0.8.3
 
 - Herstelt de ontbrekende aansluiting tussen Home Assistant-discovery en de SaaS-connector.
