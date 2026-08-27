@@ -36,6 +36,12 @@ Pas de optie **Tablet-URL** aan als `homeassistant.local` op het netwerk niet we
 
 De app opent zelf een uitgaande, versleutelde verbinding. Er hoeft geen poort in de router open en alle lokale bediening blijft zonder internet werken.
 
+## Eigen API-integraties
+
+API-integraties worden centraal in TUCON Cloud geconfigureerd. Kies **TUCON Cloud** voor publieke HTTPS-API's en **TUCON Green** voor adressen in het lokale netwerk. Geheime headers worden versleuteld opgeslagen en nooit opnieuw in de browser getoond.
+
+De Green bewaart de laatst bekende API-waarden in de persistente `/data`-map. Bij een tijdelijke storing blijft de laatste waarde zichtbaar en wordt deze als verouderd gemarkeerd.
+
 ## Privacy en opslag
 
 - Tucon verwerkt Home Assistant-data lokaal.
