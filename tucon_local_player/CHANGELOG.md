@@ -1,3 +1,8 @@
+# 0.9.1
+
+- Herstelt het ontbrekende TUCON-logo in het lokale tablet-dashboard.
+- Neemt de publieke dashboardassets voortaan expliciet mee in de containerbuild.
+
 # 0.9.0
 
 - Hybride HTTP/JSON-integraties met uitvoering via TUCON Cloud of lokaal via de Green.
