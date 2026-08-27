@@ -1,3 +1,8 @@
+# 0.8.1
+
+- Gebruikt de actuele SaaS-URL uit de appconfiguratie boven een opgeslagen pilot-URL.
+- Start discovery-synchronisatie direct na een succesvolle SaaS-authenticatie.
+
 # 0.8.0
 
 - Veilige synchronisatie van discoverymetadata voor de SaaS-configuratie-editor.
