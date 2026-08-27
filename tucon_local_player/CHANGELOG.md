@@ -1,3 +1,9 @@
+# 0.8.0
+
+- Veilige synchronisatie van discoverymetadata voor de SaaS-configuratie-editor.
+- Actieve configuratie en één rollbackversie blijven lokaal beschikbaar voor offline werking.
+- SaaS-configuraties worden vóór activering opnieuw lokaal gevalideerd.
+
 # Changelog
 
 ## 0.7.0
