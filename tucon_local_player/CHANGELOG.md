@@ -1,3 +1,8 @@
+# 0.8.3
+
+- Herstelt de ontbrekende aansluiting tussen Home Assistant-discovery en de SaaS-connector.
+- Synchroniseert de veilige discoverymetadata direct nadat de Green met TUCON Cloud is verbonden.
+
 # 0.8.2
 
 - Herstelt een ongeldige escaped newline in het server-entrypoint.
