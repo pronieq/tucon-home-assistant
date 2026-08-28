@@ -1,3 +1,10 @@
+# 1.0.0
+
+- Ondersteuning voor TUCON Dashboard Studio-configuratieschema v2.
+- Gemengde Home Assistant- en Cloud API-tegels.
+- Offline actieve configuratie en rollbackversie.
+- Centrale huisstijl, kaartformaten en navigatie.
+
 # 0.9.1
 
 - Herstelt het ontbrekende TUCON-logo in het lokale tablet-dashboard.
