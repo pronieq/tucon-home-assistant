@@ -1,3 +1,11 @@
+# 1.5.0
+
+- Vervangt het oude dashboard door Dashboard Platform v4 zonder legacy-fallbacks.
+- Gebruikt exact negen canonieke Signature-slots met blijvende placeholders.
+- Ondersteunt niet-toegewezen Home Assistant-entiteiten zonder kaarten te verliezen.
+- Weigert een publicatie volledig wanneer een kaart, binding of slot afwijkt.
+- Bevestigt na activatie het exacte renderercontract, alle kaart-ID’s en alle slots aan TUCON Cloud.
+
 # 1.4.0
 
 - Introduceert Dashboard Platform v3 met vaste Signature-slots en blijvende placeholders.
