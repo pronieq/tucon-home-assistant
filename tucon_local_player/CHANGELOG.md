@@ -1,3 +1,9 @@
+# 1.1.1
+
+- Herstelt het publiceren en lokaal bewaren van plattegronden en markers vanuit TUCON Cloud.
+- Laadt en bedient ook Home Assistant-devices die uitsluitend op een plattegrond zijn geplaatst.
+- Herstelt de weergave van partnerlogo's in co-brandingmodus.
+
 # 1.1.0
 
 - Voegt een interactieve Plattegrond-view toe aan het TUCON-dashboard.
