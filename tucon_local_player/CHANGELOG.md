@@ -1,3 +1,10 @@
+# 1.6.1
+
+- Voegt een vast nieuwsblok toe met drie tot vijf berichten uit Home Assistant Feedreader.
+- Synchroniseert Feedreader event-entiteiten naar TUCON Cloud.
+- Bewaart recente nieuwsberichten lokaal op de Green en werkt het tablet realtime bij.
+- Bevat de release-metadatafix uit de vervallen 1.6.0-releasepoging.
+
 # 1.5.1
 
 - Herstelt het ontbrekende Sonos-audioblok in het vaste brede audioslot.
