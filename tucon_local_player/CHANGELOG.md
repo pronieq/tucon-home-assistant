@@ -1,3 +1,10 @@
+# 1.3.0
+
+- Maakt het tabletdashboard exact gelijk aan de vaste negen-vakkenindeling van Dashboard Studio.
+- Behoudt iedere gepubliceerde tegel in hetzelfde opgeslagen slot.
+- Migreert oudere Signature-configuraties veilig naar de nieuwe compositie.
+- Optimaliseert grote, brede en compacte kaarten voor het 16:9-tabletscherm.
+
 # 1.2.1
 
 - Activeert de TUCON Signature-stijl standaard voor bestaande v2-dashboards.
