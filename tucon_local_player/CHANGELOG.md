@@ -1,3 +1,11 @@
+# 1.4.0
+
+- Introduceert Dashboard Platform v3 met vaste Signature-slots en blijvende placeholders.
+- Voegt vaste woning/P1-, weer-, audio- en verlichtingsblokken met meerdere databronnen toe.
+- Behoudt identiteit, blokinstellingen, databindingen en exacte posities bij publicatie vanuit TUCON Cloud.
+- Verwerkt realtime updates voor alle gekoppelde sensoren in samengestelde blokken.
+- Voorkomt lokale overschrijving van centraal beheerde Cloud-configuraties.
+
 # 1.3.1
 
 - Corrigeert het dashboard naar exact één hoge kaart links, drie gelijke bovenkaarten, twee gelijke middenkaarten en drie gelijke onderkaarten.
