@@ -1,3 +1,9 @@
+# 1.6.2
+
+- Laat het Feedreader-nieuwsblok in ieder leeg dashboardvak behalve Woning plaatsen.
+- Toont maximaal vijf koppen in brede vakken en drie koppen in normale of compacte vakken.
+- Voorkomt de fout “Geen passend leeg vak beschikbaar” bij vrijwel volle dashboards.
+
 # 1.6.1
 
 - Voegt een vast nieuwsblok toe met drie tot vijf berichten uit Home Assistant Feedreader.
