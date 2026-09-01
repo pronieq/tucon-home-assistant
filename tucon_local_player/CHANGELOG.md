@@ -1,3 +1,9 @@
+# 1.5.1
+
+- Herstelt het ontbrekende Sonos-audioblok in het vaste brede audioslot.
+- Resolveert v4-slots rechtstreeks via het opgeslagen kaart-ID.
+- Houdt de audiokaart zichtbaar wanneer Home Assistant tijdelijk geen mediaspelerstatus levert.
+
 # 1.5.0
 
 - Vervangt het oude dashboard door Dashboard Platform v4 zonder legacy-fallbacks.
