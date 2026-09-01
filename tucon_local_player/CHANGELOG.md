@@ -1,3 +1,11 @@
+# 1.1.0
+
+- Voegt een interactieve Plattegrond-view toe aan het TUCON-dashboard.
+- Ondersteunt meerdere verdiepingen vanuit de via TUCON Cloud gepubliceerde configuratie.
+- Toont Home Assistant-devices op schaalbare, relatieve posities.
+- Laat verlichting, schakelaars, scènes en zonwering rechtstreeks vanaf de plattegrond bedienen.
+- Toont actuele statusinformatie en houdt de plattegrond offline beschikbaar.
+
 # 1.0.0
 
 - Ondersteuning voor TUCON Dashboard Studio-configuratieschema v2.
