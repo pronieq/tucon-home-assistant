@@ -4,7 +4,7 @@ Publieke distributierepository voor **Tucon Local Player**.
 
 Tucon combineert geselecteerde Home Assistant-apparaten en sensoren in één eenvoudig bedieningspaneel voor tablets en vaste displays. De applicatie verwerkt Home Assistant-data lokaal en gebruikt veilige, eenmalige tablet-pairing.
 
-Versie 1.3.0 introduceert het TUCON Signature-tabletdashboard met de vaste professionele indeling uit Dashboard Studio. De Green bewaart lokaal de actieve configuratie en één rollbackversie, zodat het dashboard ook zonder internet blijft werken.
+Versie 1.3.1 introduceert het TUCON Signature-tabletdashboard met de vaste professionele indeling uit Dashboard Studio. De Green bewaart lokaal de actieve configuratie en één rollbackversie, zodat het dashboard ook zonder internet blijft werken.
 
 ## Repository toevoegen
 
@@ -23,4 +23,4 @@ De applicatiebron en SaaS-diensten worden afzonderlijk beheerd. Deze repository 
 
 ## Ondersteuning
 
-Tucon Local Player 1.3.0 ondersteunt Home Assistant OS op `amd64` en `aarch64`.
+Tucon Local Player 1.3.1 ondersteunt Home Assistant OS op `amd64` en `aarch64`.
