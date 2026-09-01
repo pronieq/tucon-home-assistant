@@ -1,3 +1,10 @@
+# 1.2.0
+
+- Volledig vernieuwd TUCON Signature-tabletdashboard volgens het ontwerp uit Dashboard Studio.
+- Vaste professionele indeling voor woning, briefing, klimaat, mobiliteit, weer, media, verlichting, gordijnen en kleine apparaten.
+- Blauwgroene glass-stijl met lime accenten en een afzonderlijke portrait fallback.
+- Bestaande realtime bediening, offline werking, plattegronden en partnerbranding blijven behouden.
+
 # 1.1.1
 
 - Herstelt het publiceren en lokaal bewaren van plattegronden en markers vanuit TUCON Cloud.
