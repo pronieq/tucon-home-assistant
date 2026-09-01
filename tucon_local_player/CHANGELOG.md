@@ -1,3 +1,8 @@
+# 1.3.1
+
+- Corrigeert het dashboard naar exact één hoge kaart links, drie gelijke bovenkaarten, twee gelijke middenkaarten en drie gelijke onderkaarten.
+- Toont voor ieder niet-gevuld vak een vaste gestippelde placeholder, zodat nooit gaten in de indeling ontstaan.
+
 # 1.3.0
 
 - Maakt het tabletdashboard exact gelijk aan de vaste negen-vakkenindeling van Dashboard Studio.
