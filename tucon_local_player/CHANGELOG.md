@@ -1,3 +1,9 @@
+# 1.2.1
+
+- Activeert de TUCON Signature-stijl standaard voor bestaande v2-dashboards.
+- Maakt automatisch een vaste professionele indeling wanneer Studio-slotmetadata ontbreekt.
+- Verwijdert de dubbele tekst naast het TUCON-logo.
+
 # 1.2.0
 
 - Volledig vernieuwd TUCON Signature-tabletdashboard volgens het ontwerp uit Dashboard Studio.
