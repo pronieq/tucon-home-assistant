@@ -1,3 +1,18 @@
+# 1.8.0
+
+- Maakt Dashboard Studio een volledige live editor met dezelfde dashboardcompositie als de tablet.
+- Stuurt iedere tien seconden een begrensde, read-only snapshot van actuele Home Assistant-gegevens naar TUCON Cloud.
+- Toont onder meer actuele entiteitswaarden, Sonos-status, weerverwachting, integratiewaarden en Feedreader-berichten in de Studio.
+- Markeert het gedeelde renderercontract zodat Studio en Player aantoonbaar dezelfde compositie gebruiken.
+- Houdt bediening in de Studio uitgeschakeld; klikken selecteert uitsluitend een dashboardblok.
+
+# 1.7.0
+
+- Voegt één adaptief weerblok toe in grote, normale en compacte formaten.
+- Toont in de grote variant maximaal zes dagen verwachting via `weather.get_forecasts`.
+- Gebruikt eigen illustraties voor zon, nacht, bewolking, regen, onweer, sneeuw, hagel, mist en wind.
+- Laat Studio en tablet dezelfde formaat- en conditieregels gebruiken.
+
 # 1.6.2
 
 - Laat het Feedreader-nieuwsblok in ieder leeg dashboardvak behalve Woning plaatsen.
