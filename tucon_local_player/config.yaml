@@ -1,5 +1,5 @@
 name: Tucon Local Player
-version: "1.9.0"
+version: "1.10.0"
 slug: tucon_local_player
 description: Eén lokaal bedieningspaneel voor apparaten en sensoren in Home Assistant.
 url: https://github.com/pronieq/tucon-home-assistant
