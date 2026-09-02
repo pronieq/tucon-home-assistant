@@ -1,3 +1,10 @@
+# 1.9.0
+
+- Toont altijd een vast woning- of kantoorgebouw in het linker dashboardblok.
+- Laat per installatie kiezen welke energie- en klimaatwaarden zichtbaar zijn.
+- Verbergt niet-beschikbare waarden of toont een streepje volgens de Studio-instelling.
+- Levert de nieuwe lichte 3D-afbeeldingen mee voor de tabletweergave.
+
 # 1.8.0
 
 - Maakt Dashboard Studio een volledige live editor met dezelfde dashboardcompositie als de tablet.
