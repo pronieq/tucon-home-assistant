@@ -1,3 +1,12 @@
+# 1.11.0
+
+- Voegt echte dashboardschermen toe voor Overzicht, Energie, Verlichting en Auto.
+- Laat actieve schermen, volgorde, bronnen en verlichtingsruimtes instellen via Dashboard Studio.
+- Voegt een subtiele slide-overgang toe bij het wisselen van scherm.
+- Toont datum, dagdeel en naam in een verbeterde begroetingshiërarchie.
+- Verplaatst de project- of woningnaam naar de vaste woningkaart.
+- Migreert bestaande dashboards veilig naar het verplichte scherm Overzicht.
+
 # 1.10.1
 
 - Voegt lokale Nederlandse Piper-spraak toe voor Fully Kiosk en andere tabletbrowsers zonder Web Speech.
