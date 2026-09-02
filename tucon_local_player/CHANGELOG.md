@@ -1,3 +1,10 @@
+# 1.10.0
+
+- Voegt een configureerbare dagbriefing toe naast de begroeting op het tablet.
+- Leest begroeting, datum, weer en geselecteerde verlichting voor.
+- Ondersteunt een Nederlandse stem, spreeksnelheid, vrije volgorde en play/stopbediening.
+- Slaat ontbrekende of offline onderdelen automatisch over.
+
 # 1.9.0
 
 - Toont altijd een vast woning- of kantoorgebouw in het linker dashboardblok.
