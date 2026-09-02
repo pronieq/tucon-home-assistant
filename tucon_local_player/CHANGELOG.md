@@ -1,3 +1,10 @@
+# 1.10.1
+
+- Voegt lokale Nederlandse Piper-spraak toe voor Fully Kiosk en andere tabletbrowsers zonder Web Speech.
+- Speelt de dagbriefing als gewone HTML5-audio af, zonder Fully Plus of externe TTS-dienst.
+- Behoudt browser-TTS op apparaten die dit ondersteunen.
+- Beveiligt en cachet gegenereerde audio om dubbele synthese en onnodige wachttijd te voorkomen.
+
 # 1.10.0
 
 - Voegt een configureerbare dagbriefing toe naast de begroeting op het tablet.
