@@ -1,3 +1,9 @@
+# 1.11.1
+
+- Herstelt de aanklikbaarheid van Overzicht, Energie, Verlichting en Auto op tablets en kioskbrowsers.
+- Laat aanrakingen door de transparante header naar het dashboardmenu gaan.
+- Houdt het logo en de headerknoppen gewoon bedienbaar.
+
 # 1.11.0
 
 - Voegt echte dashboardschermen toe voor Overzicht, Energie, Verlichting en Auto.
