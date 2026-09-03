@@ -1,5 +1,5 @@
 name: Tucon Local Player
-version: "1.11.1"
+version: "1.12.0"
 slug: tucon_local_player
 description: Eén lokaal bedieningspaneel voor apparaten en sensoren in Home Assistant.
 url: https://github.com/pronieq/tucon-home-assistant
@@ -15,6 +15,7 @@ panel_icon: mdi:view-dashboard-variant
 panel_title: Tucon
 panel_admin: true
 homeassistant_api: true
+hassio_api: true
 apparmor: true
 ports:
   8787/tcp: null

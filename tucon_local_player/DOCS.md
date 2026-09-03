@@ -1,5 +1,11 @@
 # Installatie en gebruik
 
+## Remote beheer
+
+Vanaf versie 1.12.0 rapporteert de Local Player veilige systeeminformatie aan TUCON Cloud en kan een bevoegde installateur daar een tijdelijke Home Assistant-sessie starten. De Green opent alleen zelf een uitgaande TLS-verbinding; Home Assistant wordt niet rechtstreeks op internet gepubliceerd.
+
+De remote interface gebruikt de normale Home Assistant-inlog. TUCON Cloud bewaart geen Home Assistant-wachtwoorden en een sessie verloopt automatisch na maximaal 30 minuten.
+
 1. Installeer **Tucon Local Player** vanuit de Tucon App-repository.
 2. Start de app.
 3. Open **Web UI**. Home Assistant verzorgt de toegang via Ingress.
