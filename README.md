@@ -2,7 +2,7 @@
 
 Publieke distributierepository voor **Tucon Local Player**.
 
-Versie 1.12.0 voegt veilige systeemmonitoring en tijdelijke remote Home Assistant-toegang voor bevoegde installateurs toe. De Green gebruikt hiervoor uitsluitend een uitgaande TUCON Cloud-verbinding; er hoeven geen routerpoorten te worden geopend.
+Versie 1.12.1 voegt veilige systeemmonitoring en tijdelijke remote Home Assistant-toegang voor bevoegde installateurs toe. De Green gebruikt hiervoor uitsluitend een uitgaande TUCON Cloud-verbinding; er hoeven geen routerpoorten te worden geopend.
 
 Tucon combineert geselecteerde Home Assistant-apparaten en sensoren in één eenvoudig bedieningspaneel voor tablets en vaste displays. De applicatie verwerkt Home Assistant-data lokaal en gebruikt veilige, eenmalige tablet-pairing.
 
@@ -25,4 +25,4 @@ De applicatiebron en SaaS-diensten worden afzonderlijk beheerd. Deze repository 
 
 ## Ondersteuning
 
-Tucon Local Player 1.12.0 ondersteunt Home Assistant OS op `amd64` en `aarch64`.
+Tucon Local Player 1.12.1 ondersteunt Home Assistant OS op `amd64` en `aarch64`.
