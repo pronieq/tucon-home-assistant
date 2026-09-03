@@ -1,3 +1,9 @@
+# 1.12.0
+
+- Voegt veilige systeemmonitoring voor Home Assistant, Supervisor en HA OS toe.
+- Ondersteunt tijdelijke remote Home Assistant-sessies via de bestaande uitgaande TUCON Cloud-verbinding.
+- Vereist geen port-forwarding en bewaart geen Home Assistant-wachtwoorden in TUCON Cloud.
+
 # 1.11.1
 
 - Herstelt de aanklikbaarheid van Overzicht, Energie, Verlichting en Auto op tablets en kioskbrowsers.
