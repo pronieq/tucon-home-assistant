@@ -1,3 +1,9 @@
+# 1.12.2
+
+- Routeert de volledige Home Assistant-frontend rechtstreeks via de interne Home Assistant-DNS.
+- Valt automatisch terug op de korte interne hostnaam wanneer de canonieke DNS niet bereikbaar is.
+- Laat Home Assistant de browserauthenticatie afhandelen en zet geen Supervisor-token op frontendverzoeken.
+
 # 1.12.1
 
 - Herstelt remote Home Assistant-toegang op Home Assistant OS via de ondersteunde Supervisor/Core-route.
