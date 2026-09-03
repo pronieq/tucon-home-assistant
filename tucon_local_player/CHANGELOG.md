@@ -1,3 +1,9 @@
+# 1.12.3
+
+- Leest de actuele interne Home Assistant-poort en TLS-instelling uit Supervisor Core-info.
+- Gebruikt poort 80 als actuele HA OS-standaard en behoudt 8123 voor oudere of aangepaste installaties.
+- Probeert zowel de canonieke als de korte interne Home Assistant-DNS-naam.
+
 # 1.12.2
 
 - Routeert de volledige Home Assistant-frontend rechtstreeks via de interne Home Assistant-DNS.
