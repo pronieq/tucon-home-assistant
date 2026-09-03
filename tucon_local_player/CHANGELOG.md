@@ -1,3 +1,9 @@
+# 1.12.1
+
+- Herstelt remote Home Assistant-toegang op Home Assistant OS via de ondersteunde Supervisor/Core-route.
+- Stuurt het tijdelijke Supervisor-token alleen intern mee; het token verlaat de Green niet.
+- Toont de Supervisor-status weer via de juiste API-endpoint.
+
 # 1.12.0
 
 - Voegt veilige systeemmonitoring voor Home Assistant, Supervisor en HA OS toe.
