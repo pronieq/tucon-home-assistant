@@ -1,3 +1,9 @@
+## 1.13.0 — TUCON One (voorbereid, nog niet uitgebracht)
+
+- Gedeeld dashboardcontract met universele blokken en homepagefavorieten.
+- Bestaande scenes, merkneutrale mogelijkheden, bronisolatie en bevestigde activatie.
+- Zie `docs/TUCON_ONE_SPRINT.md` voor afhankelijkheden, tests en releasevolgorde.
+
 # 1.12.3
 
 - Leest de actuele interne Home Assistant-poort en TLS-instelling uit Supervisor Core-info.
