@@ -1,5 +1,13 @@
 # TUCON One sprint — integratie en oplevering
 
+## Release-update — 9 september 2026
+
+Player 1.13.0 is [uitgebracht](https://github.com/pronieq/tucon/releases/tag/1.13.0) vanuit de gecombineerde TUCON One- en remote-beheerwijzigingen. De gebruiker heeft de aangepaste preview goedgekeurd. De [releaseworkflow](https://github.com/pronieq/tucon/actions/runs/34328425091) heeft beide images (amd64 en aarch64) en het gezamenlijke manifest voor 1.13.0 succesvol gepubliceerd.
+
+De distributie verwijst naar deze gepubliceerde image. De volgende stap is de pilot-Green bijwerken en lokale werking controleren; daarna volgt de Cloud-release en pas vervolgens activatie van One per installatie.
+
+Onderstaand sprintverslag beschrijft de oorspronkelijke PR-oplevering. De daarin genoemde releasestatus, testtotalen, pakket-hashes en releasevolgorde zijn historisch; voor de actuele uitrol geldt de volgorde hierboven.
+
 ## Doel en afbakening
 
 Vaste Tucon One-blokken met een installatiegebonden selectie en geordende homepagefavorieten. Studio en Local Player gebruiken exact hetzelfde dashboardpakket en dezelfde validatie. Bestaande Home Assistant-scenes worden alleen geactiveerd. Er worden geen nieuwe scenes of API-commandoconnectors gemaakt.
