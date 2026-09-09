@@ -1,3 +1,11 @@
+## 1.13.0 — TUCON One en remote beheer
+
+- Gedeeld dashboardcontract met universele blokken en homepagefavorieten.
+- Bestaande scenes, merkneutrale mogelijkheden, bronisolatie en bevestigde activatie.
+- Dashboardweergave afgestemd op Dashboard v1 met gedeelde stijlen en afbeeldingen.
+- Gecombineerd met de gelijktijdige verbeteringen voor remote beheer.
+- Zie `docs/TUCON_ONE_SPRINT.md` voor afhankelijkheden, tests en releasevolgorde.
+
 # 1.12.3
 
 - Leest de actuele interne Home Assistant-poort en TLS-instelling uit Supervisor Core-info.
