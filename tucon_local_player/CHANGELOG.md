@@ -1,3 +1,10 @@
+## 1.15.0 — Handmatige entiteitskeuze
+
+- Kies zelf entiteiten in Cloud Studio wanneer automatische herkenning ontbreekt.
+- Koppel bereik, batterij en laadstatus afzonderlijk bij Auto.
+- Toon de echte waarde en eenheid; alleen passende apparaten krijgen bediening.
+- Behoudt bestaande dashboards, favorieten en woningafbeeldingen.
+
 ## 1.14.0 — Dashboardbediening
 
 - SaaS, Display en extra weergaven bereikbaar via Configuratie.
