@@ -1,3 +1,10 @@
+## 1.16.0 — Eigen autoafbeeldingen
+
+- Stel per auto een eigen afbeelding in via Cloud Studio: upload of HTTPS-link.
+- Geüploade afbeeldingen blijven lokaal beschikbaar op het dashboard.
+- Toon de afbeelding volledig binnen het autoblok en ook bij de details.
+- Herstel eenvoudig de standaardauto; entiteiten en favorieten blijven behouden.
+
 ## 1.15.0 — Handmatige entiteitskeuze
 
 - Kies zelf entiteiten in Cloud Studio wanneer automatische herkenning ontbreekt.
