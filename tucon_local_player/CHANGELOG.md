@@ -1,3 +1,11 @@
+## 1.18.0 — Weerverwachting, media en gebouw
+
+- Weer-popup met vijf of zeven dagen, instelbaar in Cloud Studio.
+- Dagverwachtingen worden per weerbron opgehaald en tijdelijk gecachet.
+- Media-popup gebruikt dezelfde player als het dashboard, gegroepeerd per HA-ruimte.
+- Woning- en kantoorillustratie groter en naar linksboven uitgebreid.
+- Dashboardpakket 1.6.0; bestaande configuraties blijven leesbaar.
+
 ## 1.17.0 — Meerdere auto's en configuratiebeheer
 
 - Toon per voertuig één afbeelding en meerdere gekoppelde gegevens en statussen in dezelfde autokaart.
