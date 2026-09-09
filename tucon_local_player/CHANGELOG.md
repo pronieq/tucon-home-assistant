@@ -1,3 +1,11 @@
+## 1.17.0 — Meerdere gegevens per voertuig
+
+- Geef iedere auto één naam en foto met meerdere waarden, zoals bereik, batterij en dagteller.
+- Kies één auto voor het dashboard; de popup toont alle auto's en hun gegevens.
+- Voeg in Cloud Studio extra gegevens toe onder de juiste auto en voeg bestaande losse kaarten samen.
+- Verberg Configuratie op gekoppelde tablets. Home Assistant toont alleen SaaS en Display.
+- Bestaande configuraties, afbeeldingen en favorieten blijven bruikbaar.
+
 ## 1.16.0 — Autoafbeeldingen en remote dashboardmelding
 
 - Stel per auto een eigen afbeelding in via Cloud Studio: upload of HTTPS-link.
