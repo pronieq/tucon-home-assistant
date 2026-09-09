@@ -1,3 +1,11 @@
+## 1.14.0 — Dashboardbediening
+
+- SaaS, Display en extra weergaven bereikbaar via Configuratie.
+- Groen/rood verbindingslampje in de sidebar.
+- Remote-goedkeuringscode zichtbaar op gekoppelde lokale displays, met automatische vervaldatum.
+- Eigen woning- of kantoorafbeelding instelbaar via TUCON Cloud Studio.
+- Bestaande dashboards blijven bruikbaar.
+
 ## 1.13.0 — TUCON One en remote beheer
 
 - Gedeeld dashboardcontract met universele blokken en homepagefavorieten.
