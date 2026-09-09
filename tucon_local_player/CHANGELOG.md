@@ -1,3 +1,11 @@
+## 1.17.0 — Meerdere auto's en configuratiebeheer
+
+- Toon per voertuig één afbeelding en meerdere gekoppelde gegevens en statussen in dezelfde autokaart.
+- Kies één auto voor het dashboard; overige auto's blijven bereikbaar via de detailpopup.
+- Behoud bestaande autoconfiguraties, entiteiten en favorieten bij de update.
+- Verwijder het configuratiemenu van gekoppelde tablets; configuratie blijft alleen beschikbaar voor de Home Assistant-beheerder.
+- Beperk Configuratie in Home Assistant tot SaaS en Display.
+
 ## 1.16.0 — Autoafbeeldingen en remote dashboardmelding
 
 - Stel per auto een eigen afbeelding in via Cloud Studio: upload of HTTPS-link.
@@ -237,7 +245,6 @@
 
 - SaaS-koppeling rechtstreeks vanuit TUCON beheer, zonder browserconsole.
 - Live verbindingsstatus en opnieuw koppelen vanuit één scherm.
-
 
 ## 0.5.0
 
