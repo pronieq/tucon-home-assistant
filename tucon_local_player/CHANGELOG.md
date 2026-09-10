@@ -1,3 +1,11 @@
+## 1.19.0 — Energie fase 1
+
+- Optioneel energiebronnen verzamelen via Home Assistant, onafhankelijk van dashboard en tablet.
+- Persistente SQLite-opslag met kwartierwaarden, meetkwaliteit en zeven dagen lokale historie.
+- Ondertekende, afzonderlijke energieconfiguratie en bevestigde synchronisatie met TUCON Cloud.
+- Herstel na verbindingsverlies en herstart; meterresets en datagaten blijven herkenbaar.
+- Alleen meten: geen automatische apparaatbediening. Vereist Cloud 0.31.0 voor Energiebeheer.
+
 ## 1.18.0 — Weerverwachting, media en gebouw
 
 - Weer-popup met vijf of zeven dagen, instelbaar in Cloud Studio.

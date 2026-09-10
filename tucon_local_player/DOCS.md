@@ -69,3 +69,7 @@ Het gepubliceerde dashboard maakt de navigatie en ruimtekaarten automatisch uit 
 ## Problemen oplossen
 
 Controleer bij verbindingsproblemen eerst het app-logboek. Herstart daarna Tucon. Verwijder `/data` niet: daarin staan de onboardingconfiguratie en offline snapshot.
+
+### Energiebeheer (vanaf 1.19.0)
+
+Cloud 0.31.0 biedt onder iedere installatie **Energiebeheer**. Hier kiest u de P1-/zonnebronnen en schakelt u de lokale gegevensverzameling in. De tablet hoeft hiervoor niet open te staan. Metingen blijven lokaal maximaal zeven dagen bewaard; Cloud ontvangt afgesloten kwartieren met een kwaliteitsindicatie. Deze fase verzamelt uitsluitend gegevens en bedient geen apparaten. Zie `docs/ENERGY_PHASE_1.md` voor meetdefinities en releasevolgorde.
