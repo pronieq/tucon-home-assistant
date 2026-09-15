@@ -1,3 +1,13 @@
+## 1.20.0 — Energie & Intelligence-dashboard
+
+- Nieuwe compacte Energie- en Intelligence-kaarten op het overzicht.
+- Uitgebreide Energiepagina met actuele energiestromen, historie en bronkwaliteit.
+- Haal Home Assistant-bronnen vanuit Cloud Studio direct opnieuw op via een ondertekende opdracht.
+- Ondersteunt expliciete prijs-, warmtepomp-, laad- en prognosebronnen.
+- Geeft totale Frank-kwartierprijzen veilig door zonder overige sensorattributen te delen.
+- Gebruikt het gedeelde TUCON-dashboardpakket 1.8.0.
+- Automatische EMS-aansturing blijft uitgeschakeld; adviezen en observaties blijven leidend.
+
 ## 1.19.0 — Energie fase 1
 
 - Optioneel energiebronnen verzamelen via Home Assistant, onafhankelijk van dashboard en tablet.
