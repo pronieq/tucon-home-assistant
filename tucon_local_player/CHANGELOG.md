@@ -1,3 +1,12 @@
+## 1.21.2 — visueel koppelen en woninggerichte adviezen
+
+- Dashboardpakket 1.9.2, identiek aan Cloud 0.34.2.
+- Leesbare tijdlabels in de prijsgrafiek en aangepaste terugknop.
+- Veertien adviesprofielen in code, gebaseerd op expliciet gekoppelde apparatuur en actuele meetwaarden; geen automatisch schakelen.
+- Oude aangepaste profiel-JSON wordt genegeerd en bij normaliseren verwijderd.
+- Sensorpotloodjes zijn uitsluitend zichtbaar in Studio.
+- Installeer en controleer deze Player-update vóór de uitrol van Cloud 0.34.2.
+
 ## 1.21.1 — daghelpers en zonneglow
 
 - Dashboardpakket 1.9.1, identiek aan Cloud 0.34.1.
