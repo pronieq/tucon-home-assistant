@@ -1,3 +1,13 @@
+## 1.21.0 — pilot
+
+- TUCON One V1 dashboardpakket 1.9.0, identiek aan Cloud 0.33.0.
+- Vernieuwd energieoverzicht met actuele stromen, dagbalans en SVG-iconen.
+- Woningvermogen uit expliciete PV-, net- en batterijmetingen; ontbrekende of verouderde bronnen blijven onbekend.
+- Gevalideerde Intelligence-adviesprofielen; geen automatische apparaatsturing.
+- Installeer eerst op de test-Green en controleer opstarten, dashboard en Cloud-verbinding. Daarna kan Cloud 0.33.0 worden uitgerold.
+- Controleer na Cloud-uitrol de meetbronnen en batterij-instelling, sla een One-concept op en publiceer het.
+- Versietag 1.21.0; de algemene container-tag latest blijft ongewijzigd tot pilotcontrole.
+
 ## 1.20.0 — Energie & Intelligence-dashboard
 
 - Nieuwe compacte Energie- en Intelligence-kaarten op het overzicht.
