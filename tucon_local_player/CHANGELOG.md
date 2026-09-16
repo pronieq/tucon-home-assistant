@@ -1,3 +1,10 @@
+## 1.21.1 — daghelpers en zonneglow
+
+- Dashboardpakket 1.9.1, identiek aan Cloud 0.34.1.
+- Ondersteunt handmatig gekoppelde daghelpers in Wh/kWh met onbekende dagperiode.
+- Herstelt de zonneglow bij actuele PV-productie; pauzeren en verminderde beweging blijven ondersteund.
+- Installeer deze Player-update vóór de uitrol van Cloud 0.34.1.
+
 ## 1.21.0 — pilot
 
 - TUCON One V1 dashboardpakket 1.9.0, identiek aan Cloud 0.33.0.
