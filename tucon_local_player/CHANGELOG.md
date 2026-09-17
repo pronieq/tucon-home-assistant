@@ -1,3 +1,10 @@
+## 1.21.3 — gasafname en gasverbruik vandaag
+
+- Dashboardpakket 1.9.3 met gasafname in m³/uur en gasverbruik vandaag in m³ naast woningverbruik.
+- Gasdaghelpers worden met hun dagperiode ontdekt.
+- Het gasblok verschijnt alleen als een gasbron expliciet is gekoppeld.
+- Installeer en controleer deze Player-update vóór de uitrol van Cloud 0.34.3; daarna gasbronnen in Studio koppelen en publiceren.
+
 ## 1.21.2 — visueel koppelen en woninggerichte adviezen
 
 - Dashboardpakket 1.9.2, identiek aan Cloud 0.34.2.
