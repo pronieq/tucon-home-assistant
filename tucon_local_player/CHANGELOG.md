@@ -1,3 +1,11 @@
+## 1.22.2 — afvalkalender en vrije sensorkoppeling (pilot)
+
+- Dashboardpakket 1.10.2, identiek aan Cloud/Studio 0.35.2.
+- Ondersteunt Waste Collection Schedule-datums en PMD in de afvalkalender.
+- Voeg via ‘Alle sensoren tonen’ handmatig helpers toe wanneer automatische herkenning ontbreekt.
+- Afwijkende meetfunctie of meetperiode vereist expliciete bevestiging; onverenigbare eenheden blijven geblokkeerd.
+- Installeer eerst op de test-Green en controleer de afvaldatums en dagelijkse gashelper vóór Cloud/Studio 0.35.2 wordt uitgerold.
+
 ## 1.22.1 — Techno kaartcorrecties (pilot)
 
 - Dashboardpakket 1.10.1, identiek aan Cloud/Studio 0.35.1.
