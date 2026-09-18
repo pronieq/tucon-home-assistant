@@ -1,3 +1,12 @@
+## 1.22.1 — Techno kaartcorrecties (pilot)
+
+- Dashboardpakket 1.10.1, identiek aan Cloud/Studio 0.35.1.
+- PNG-weerbeelden, dagwoningbeeld met zonnepaneelanimatie en gecentreerde meetwaarden.
+- Afvalkalender en kwartierprijzen in pop-ups; verbeterde gordijn- en klimaatkaarten.
+- Afzonderlijke laadpaalmetingen voor vandaag en gisteren; dagverbruik vereist passende sensoren/helpers.
+- Installeer eerst op de test-Green en controleer opstarten, bestaande meetwaarden, pop-ups, bediening en Cloud-verbinding vóór de uitrol van Cloud/Studio 0.35.1.
+- Bestaande configuraties blijven geldig. Geen automatische EMS-sturing.
+
 ## 1.22.0 — Techno V1 (pilot)
 
 - Dashboardpakket 1.10.0 met het vernieuwde Techno-ontwerp voor Overzicht en Energie, grotere tabletteksten en klikfeedback.
