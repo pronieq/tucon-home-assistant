@@ -1,3 +1,11 @@
+## 1.22.0 — Techno V1 (pilot)
+
+- Dashboardpakket 1.10.0 met het vernieuwde Techno-ontwerp voor Overzicht en Energie, grotere tabletteksten en klikfeedback.
+- Ondersteunt optionele airco- en gordijnblokken en expliciet gekoppelde apparaat-, kosten-, batterij- en afvalmetingen.
+- Behoudt bestaande configuraties en gasbronnen. Geen automatische EMS-sturing; camerastreams zijn nog niet aangesloten.
+- Installeer eerst op de test-Green en controleer opstarten, bestaande meetwaarden, bediening en de Cloud-verbinding vóór uitrol van Cloud/Studio 0.35.0.
+- Controleer daarna Studio opslaan/publiceren en dezelfde echte meetwaarden op de Player. Cloud en Player gebruiken exact hetzelfde dashboardpakket.
+
 ## 1.21.3 — gasafname en gasverbruik vandaag
 
 - Dashboardpakket 1.9.3 met gasafname in m³/uur en gasverbruik vandaag in m³ naast woningverbruik.
