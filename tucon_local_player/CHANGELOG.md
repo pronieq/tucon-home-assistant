@@ -1,3 +1,10 @@
+## 1.24.0 — pilot
+
+- Voertuigen met eigen type, naam, afbeelding en deelname aan de dagbriefing.
+- Verwijdert de algemene De Bommel-optie en automatische bootkaart.
+- Victron-gegevens alleen na expliciete koppeling bij een voertuig op de eigen installatie.
+- Vereist dashboard 1.11.0; Cloud 0.37.0 volgt na de Player-pilot.
+
 ## 1.23.0 — pilot
 
 - Standaard dagbriefing: weer, goedkoopste bekende stroomkwartier en afvalophaling.
