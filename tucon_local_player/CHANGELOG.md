@@ -1,3 +1,11 @@
+## 1.23.0 — pilot
+
+- Standaard dagbriefing: weer, goedkoopste bekende stroomkwartier en afvalophaling.
+- Optionele De Bommel-kaart en briefing via Victron VRM.
+- Nederlandse lokale Piper-stem, zonder ElevenLabs-abonnement.
+- Dashboard 1.10.3; Cloud 0.36.0 volgt na controle op de test-Green.
+- Uitrolvoorwaarden: docs/PLAYER-1.23.0-ROLLOUT.md.
+
 ## 1.22.2 — afvalkalender en vrije sensorkoppeling (pilot)
 
 - Dashboardpakket 1.10.2, identiek aan Cloud/Studio 0.35.2.
