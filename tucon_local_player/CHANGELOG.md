@@ -1,3 +1,12 @@
+## 1.26.0 — helpers en Intelligence-pilot
+
+- Maakt of hergebruikt standaarddaghelpers zonder duplicaten of verlies van historie.
+- Telt twee tariefregisters één keer samen vóór de dagmeter.
+- Evalueert centraal beheerde Intelligence-regels lokaal met actuele meetgegevens.
+- Toont advies, geen bijzonder advies en onvoldoende gegevens afzonderlijk.
+- Gebruikt dezelfde geldige uitkomst in dashboard en Nederlandse dagbriefing.
+- Installeer eerst op de test-Green en voer docs/PLAYER-1.26.0-ROLLOUT.md uit. Cloud 0.39.0 volgt pas daarna.
+
 ## 1.25.0 — installatie- en dashboardpilot
 
 - Dashboardpakket 1.12.1 met consistente weericonen, standaard PMD-zak en subtiele animatie op de ophaaldag.
