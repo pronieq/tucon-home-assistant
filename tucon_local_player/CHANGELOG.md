@@ -1,3 +1,12 @@
+## 1.25.0 — installatie- en dashboardpilot
+
+- Dashboardpakket 1.12.1 met consistente weericonen, standaard PMD-zak en subtiele animatie op de ophaaldag.
+- Bewaart per installatie en bron de laatste geldige waarde inclusief echt meetmoment.
+- Een geldige nul blijft zichtbaar; tijdelijke uitval overschrijft de laatst bekende meting niet.
+- Bediening van poorten, sloten en schakelaars wordt bij uitval direct geblokkeerd; een oude toestand bevestigt nooit een nieuwe bediening.
+- Wisselen van installatie of bron hergebruikt geen oude waarde; herstarten behoudt de cache zonder dagtotalen naar de verkeerde dag te verschuiven.
+- Installeer eerst op de test-Green en voer docs/PLAYER-1.25.0-ROLLOUT.md uit. Cloud 0.38.0 blijft geblokkeerd tot die controle slaagt.
+
 ## 1.24.0 — pilot
 
 - Voertuigen met eigen type, naam, afbeelding en deelname aan de dagbriefing.
